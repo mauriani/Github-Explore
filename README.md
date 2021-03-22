@@ -1,4 +1,3 @@
-<h1>Clonando a Interface do Linkedln</h1>
 
 <img src="https://user-images.githubusercontent.com/32397288/112042558-68e83a80-8b26-11eb-9568-60e5ecaf8e7a.png">
 
