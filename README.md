@@ -3,7 +3,7 @@
 
 ## Sobre o projeto
 
-Projeto realizado utilizando rectJs, durante o bootcamp de n° 11.
+Projeto realizado utilizando rectJs, durante o bootcamp de n° 11. Nesse projeto o usuário pode inserir o autor/nome do repositorio e ter acesso aos detalhes desse determinado repositorio, podendo visualizar issues, descrição, title etc.
 
 ## 🚀 Tecnologias usadas
 
