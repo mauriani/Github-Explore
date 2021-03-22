@@ -28,7 +28,7 @@ Após o download do repositório em sua máquina basta realizar os seguintes com
 ```jsx
 
 // acessar a basta do projeto
-cd Clone-Linkedln
+cd github-explore
 // instalar todas as dependencias do projeto
 yarn install ou npm install
 
@@ -39,6 +39,6 @@ yarn install ou npm install
 ```jsx
 
 // para executa você pode usar o expo instalado no seu celular
-cd Clone-Linkedln
+cd github-explore
 yarn start
 ```
