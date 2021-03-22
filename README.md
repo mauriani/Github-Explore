@@ -1,8 +1,45 @@
-<p align="center">
-  <a href="" rel="noopener">
-  <img width=400px height=200px src="./docs/logo.svg" alt="GitHub Explorer logo"></a>
-</p>
+<h1>Clonando a Interface do Linkedln</h1>
 
-<h3 align="center">Explore GitHub repositories. Built with ReactJS | TypeScript | Styled Components</h3>
+<img src="https://user-images.githubusercontent.com/32397288/112042558-68e83a80-8b26-11eb-9568-60e5ecaf8e7a.png">
 
-<div align="center">
+## Sobre o projeto
+
+Projeto realizado utilizando rectJs, onde foi feito o clone do Linkedln.
+
+## 🚀 Tecnologias usadas
+
+- React js
+- api do github
+
+## 💻Instalação
+
+Antes de iniciar você precisar ter o ambiente configurado.
+
+### Pré requisitos
+
+- React js
+- yarn ou npm
+
+```jsx
+git clone https://github.com/mauriani/Clone-Linkedln.git
+```
+
+Após o download do repositório em sua máquina basta realizar os seguintes comandos:
+
+```jsx
+
+// acessar a basta do projeto
+cd Clone-Linkedln
+// instalar todas as dependencias do projeto
+yarn install ou npm install
+
+```
+
+## Executando Projeto
+
+```jsx
+
+// para executa você pode usar o expo instalado no seu celular
+cd Clone-Linkedln
+yarn start
+```
