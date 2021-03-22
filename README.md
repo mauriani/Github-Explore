@@ -3,7 +3,7 @@
 
 ## Sobre o projeto
 
-Projeto realizado utilizando rectJs, onde foi feito o clone do Linkedln.
+Projeto realizado utilizando rectJs, durante o bootcamp de n° 11.
 
 ## 🚀 Tecnologias usadas
 
@@ -20,7 +20,7 @@ Antes de iniciar você precisar ter o ambiente configurado.
 - yarn ou npm
 
 ```jsx
-git clone https://github.com/mauriani/Clone-Linkedln.git
+git clone https://github.com/mauriani/github-explore.git
 ```
 
 Após o download do repositório em sua máquina basta realizar os seguintes comandos:
