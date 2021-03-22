@@ -35,7 +35,11 @@
       "arrow-body-style": 0,
       "linebreak-style": 0,
       "arrow-parens": 0,
+      "react/jsx-one-expression-per-line":"off",
+      "import/prefer-default-export":0,
+      "import/no-default-export": 0,
       "object-curly-newline": "off",
+      "no-redeclare": 0,
       "operator-linebreak": [
         "error",
         "after",
